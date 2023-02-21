@@ -11,8 +11,10 @@ A list of textbooks and online resources that I find useful.
 # Statistics/Mathematics textbooks
 
 1. Ross statistics book
-2. Mathematics for economists
-3. Essential mathematics for economists
+2. Hogg, R. V., Tanis, E. A., & Zimmerman, D. L. (1977). Probability and statistical inference (Vol. 993). New York: Macmillan.
+3. Mathematics for economists
+4. Essential mathematics for economists
+5. Multivariate statistics: 
 
 # Econometrics
 
