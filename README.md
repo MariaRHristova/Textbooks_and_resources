@@ -45,3 +45,4 @@ A list of textbooks and online resources that I find useful.
 2. Stephens-Davidowitz, S. (2017) Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are.
 3. O'Neil, C. (2017) Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy
 4. Levitt, S. Freakonomics
+5. Spraul, A. Think Like a Programmer: An Introduction to Creative Problem Solving 
