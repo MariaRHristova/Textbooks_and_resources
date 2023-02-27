@@ -9,6 +9,7 @@ A list of textbooks and online resources that I find useful.
 5. Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow. " O'Reilly Media, Inc.".
 6. Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2009). The elements of statistical learning: data mining, inference, and prediction (Vol. 2, pp. 1-758). New York: springer.
 7. Bonaccorso, G. (2020). Mastering Machine Learning Algorithms: Expert techniques for implementing popular machine learning algorithms, fine-tuning your models, and understanding how they work. Packt Publishing Ltd.
+8. Deep learning Ian Goodfellow
 
 
 # Programming/Computer science
@@ -17,6 +18,7 @@ A list of textbooks and online resources that I find useful.
 3. MIT course: https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
 4. Harvard course: https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
 5. Data structures and algorithms: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
+6. Mastering PosgreSQL 10 Hans- Juergen Schoenig
 
 # Statistics/Mathematics textbooks
 
