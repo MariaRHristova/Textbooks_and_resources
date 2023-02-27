@@ -8,6 +8,13 @@ A list of textbooks and online resources that I find useful.
 4. Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow. " O'Reilly Media, Inc.".
 5. Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2009). The elements of statistical learning: data mining, inference, and prediction (Vol. 2, pp. 1-758). New York: springer.
 
+# Programming/Computer science
+
+1. MIT course: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+2. MIT course: https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+3. Harvard course: https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
+4. Data structures and algorithms: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
+
 # Statistics/Mathematics textbooks
 
 1. Ross statistics book
@@ -16,6 +23,7 @@ A list of textbooks and online resources that I find useful.
 4. Essential mathematics for economists
 5. Multivariate statistics: 
 
+
 # Econometrics
 
 1. Gujarati, D. N. (2003). Basic Econometrics 4th edition McGraw Hill: New York.
@@ -23,22 +31,23 @@ A list of textbooks and online resources that I find useful.
 3. Angrist, J. D., & Pischke, J. S. (2009). Mostly harmless econometrics: An empiricist's companion. Princeton university press.
 3. Youtube channel Ben Lambert, full course on econometrics: https://www.youtube.com/playlist?list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU
 
+# Macro/micro economics
+
+1. Acemoglu, D. (2008). Introduction to modern economic growth. Princeton university press.
+2. Barro, R., and X. Sala-i-Martin (2004): Economic Growth, MIT Press, 2nd ed
+3. Romer, D. (2018): Advanced Macroeconomics, McGraw-Hill, 5th ed.
+4. Shone, R. (2002): Economic Dynamics: Phase Diagrams and Their Economic Application, Cambridge University Press
+
+# Time series 
+
+1. Enders, W. (2015): Applied Econometrics Time Series, Wiley, 4th ed.
+2. Franses, P. H. (2014): Time Series Models for Business and Economic Forecasting, Cambridge University Press, 2nd ed
+
 # Online courses/resources
 
 1. Deep Learning: http://introtodeeplearning.com/
 2. Statistics, great explanations of distributions: https://online.stat.psu.edu/statprogram/undergraduate-studies
 
-# Programming/Computer science
-
-1. MIT course: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
-2. MIT course: https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
-3. Harvard course: https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
-4. Data structures and algorithms: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
-
-# Macro/micro economics
-
-1. Acemoglu, D. (2008). Introduction to modern economic growth. Princeton university press.
-2. 
 
 # Non-fiction books
 
