@@ -11,11 +11,11 @@ A list of textbooks and online resources that I find useful.
 
 
 # Programming/Computer science
-
-1. MIT course: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
-2. MIT course: https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
-3. Harvard course: https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
-4. Data structures and algorithms: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
+1. McKinney, W. (2012). Python for data analysis: Data wrangling with Pandas, NumPy, and IPython. " O'Reilly Media, Inc.".
+2. MIT course: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+3. MIT course: https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+4. Harvard course: https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
+5. Data structures and algorithms: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
 
 # Statistics/Mathematics textbooks
 
