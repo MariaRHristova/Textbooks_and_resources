@@ -5,21 +5,22 @@ A list of textbooks and online resources that I find useful.
 1. Alpaydin, E. (2020). Introduction to machine learning. MIT press.
 2. Bishop, C. M., & Nasrabadi, N. M. (2006). Pattern recognition and machine learning. New York: springer.
 3. Brownlee, J. (2018). Statistical methods for machine learning: Discover how to transform data into knowledge with Python. Machine Learning Mastery.
-4. Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow. " O'Reilly Media, Inc.".
-5. Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2009). The elements of statistical learning: data mining, inference, and prediction (Vol. 2, pp. 1-758). New York: springer.
+   https://machinelearningmastery.com/statistics_for_machine_learning/
+5. Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow. " O'Reilly Media, Inc.".
+6. Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2009). The elements of statistical learning: data mining, inference, and prediction (Vol. 2, pp. 1-758). New York: springer.
+
 
 # Programming/Computer science
 
-1. McKinney, W. (2012). Python for data analysis: Data wrangling with Pandas, NumPy, and IPython. " O'Reilly Media, Inc.".
-2. MIT course: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
-3. MIT course: https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
-4. Harvard course: https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
-5. Data structures and algorithms: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
+1. MIT course: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+2. MIT course: https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+3. Harvard course: https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
+4. Data structures and algorithms: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
 
 # Statistics/Mathematics textbooks
 
-1. Ross statistics book
-2. Hogg, R. V., Tanis, E. A., & Zimmerman, D. L. (1977). Probability and statistical inference (Vol. 993). New York: Macmillan.
+1. Ross, S. (2018): A First Course in Probability, Pearson, 10th ed
+2. Hogg, R and A. Craig (2018): Introduction to Mathematical Statistics, Pearson, 8th ed
 3. Mathematics for economists
 4. Essential mathematics for economists
 5. Multivariate statistics: 
