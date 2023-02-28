@@ -20,6 +20,8 @@ A list of textbooks and online resources that I find useful.
 5. Data structures and algorithms: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
 6. Mastering PosgreSQL 10 Hans- Juergen Schoenig
 7. Introduction to Computation and Programming Using Python, MIT
+8. Guttag, J.V. (2016). Introduction to Computation and Programming Using Python, second edition: With Application to Understanding Data. MIT press
+
 
 # Statistics/Mathematics textbooks
 
