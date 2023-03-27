@@ -10,6 +10,7 @@ A list of textbooks and online resources that I find useful.
 6. Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2009). The elements of statistical learning: data mining, inference, and prediction (Vol. 2, pp. 1-758). New York: springer.
 7. Bonaccorso, G. (2020). Mastering Machine Learning Algorithms: Expert techniques for implementing popular machine learning algorithms, fine-tuning your models, and understanding how they work. Packt Publishing Ltd.
 8. Deep learning Ian Goodfellow
+9. PySpark: Parsian, M. (2022). Data Algorithms with Spark: Recipes and Design Patterns for Scaling Up using PySpark,  O'Reilly Media
 
 
 # Programming/Computer science
