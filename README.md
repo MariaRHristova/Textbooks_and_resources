@@ -51,6 +51,7 @@ A list of textbooks and online resources that I find useful.
 
 1. Enders, W. (2015): Applied Econometrics Time Series, Wiley, 4th ed.
 2. Franses, P. H. (2014): Time Series Models for Business and Economic Forecasting, Cambridge University Press, 2nd ed
+3. Online textbook: Forecasting: Principles and Practice https://otexts.com/fpp3/
 
 # Online courses/resources
 
