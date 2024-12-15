@@ -53,6 +53,9 @@ A list of textbooks and online resources that I find useful.
 2. Franses, P. H. (2014): Time Series Models for Business and Economic Forecasting, Cambridge University Press, 2nd ed
 3. Online textbook: Forecasting: Principles and Practice https://otexts.com/fpp3/
 
+# Network theory 
+1. "Network Science", Albert-Laszlo Barabasi, Cambridge University Press, 2016
+
 # Online courses/resources
 
 1. Deep Learning: http://introtodeeplearning.com/
@@ -60,10 +63,10 @@ A list of textbooks and online resources that I find useful.
 3. Recursion and memoization: https://www.youtube.com/watch?v=L7x0OUN1Aws&t=776s
 4. Code visualization step by step: https://pythontutor.com/
 5. OOP Design patterns: https://www.youtube.com/@ArjanCodes
+6. netowrk analysis: https://www.youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2
 
 
 # Non-fiction books
-
 1. Acemoglu, D. (2015). Why nations fail?. The Pakistan Development Review, 54(4), 301-312.
 2. Harari, Y. (2017) Homo Deus: A Brief History of Tomorrow
 2. Stephens-Davidowitz, S. (2017) Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are.
