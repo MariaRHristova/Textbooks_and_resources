@@ -30,7 +30,8 @@ A list of textbooks and online resources that I find useful.
 2. Hogg, R and A. Craig (2018): Introduction to Mathematical Statistics, Pearson, 8th ed
 3. Mathematics for economists
 4. Essential mathematics for economists
-5. Multivariate statistics: 
+5. Multivariate statistics: Johnson, R. A., & Wichern, D. W. (2002). Applied multivariate statistical analysis.
+
 
 
 # Econometrics
