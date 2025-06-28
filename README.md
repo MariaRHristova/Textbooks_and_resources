@@ -33,7 +33,6 @@ A list of textbooks and online resources that I find useful.
 5. Multivariate statistics: Johnson, R. A., & Wichern, D. W. (2002). Applied multivariate statistical analysis.
 
 
-
 # Econometrics
 
 1. Gujarati, D. N. (2003). Basic Econometrics 4th edition McGraw Hill: New York.
@@ -56,6 +55,7 @@ A list of textbooks and online resources that I find useful.
 
 # Network theory 
 1. "Network Science", Albert-Laszlo Barabasi, Cambridge University Press, 2016 (https://networksciencebook.com/)
+2. https://snap.stanford.edu/class/cs224w-2022/
 
 # Data modelling and engineering 
 1. Cupoli, P., Earley, S., & Henderson, D. (2014). Dama-dmbok2 framework. Dama International.
@@ -69,6 +69,7 @@ A list of textbooks and online resources that I find useful.
 4. Code visualization step by step: https://pythontutor.com/
 5. OOP Design patterns: https://www.youtube.com/@ArjanCodes
 6. Netowrk analysis: https://www.youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2
+7. Stanford CS224W: Machine Learning with Graphs: https://web.stanford.edu/class/cs224w/; https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
 
 
 # Non-fiction books
