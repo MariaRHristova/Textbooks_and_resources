@@ -55,7 +55,11 @@ A list of textbooks and online resources that I find useful.
 3. Online textbook: Forecasting: Principles and Practice https://otexts.com/fpp3/
 
 # Network theory 
-1. "Network Science", Albert-Laszlo Barabasi, Cambridge University Press, 2016
+1. "Network Science", Albert-Laszlo Barabasi, Cambridge University Press, 2016 (https://networksciencebook.com/)
+
+# Data modelling and engineering 
+1. Cupoli, P., Earley, S., & Henderson, D. (2014). Dama-dmbok2 framework. Dama International.
+
 
 # Online courses/resources
 
@@ -64,7 +68,7 @@ A list of textbooks and online resources that I find useful.
 3. Recursion and memoization: https://www.youtube.com/watch?v=L7x0OUN1Aws&t=776s
 4. Code visualization step by step: https://pythontutor.com/
 5. OOP Design patterns: https://www.youtube.com/@ArjanCodes
-6. netowrk analysis: https://www.youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2
+6. Netowrk analysis: https://www.youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2
 
 
 # Non-fiction books
